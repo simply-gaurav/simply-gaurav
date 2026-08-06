@@ -24,34 +24,37 @@
 
 ### 🧬 Core Engineering Stack & Technical Expertise
 
-#### **Programming, Frameworks & Core Tools**
+<!-- Core Foundation (Primary Badges) -->
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ROS 1/2](https://img.shields.io/badge/ROS_1%2F2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### **State Estimation, Navigation & Kinematics**
-![Extended Kalman Filter (EKF)](https://img.shields.io/badge/Extended_Kalman_Filter_(EKF)-005A9C?style=for-the-badge)
-![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-4A154B?style=for-the-badge)
-![2D/3D LiDAR SLAM](https://img.shields.io/badge/2D%2F3D_LiDAR_SLAM-000000?style=for-the-badge)
-![AMCL Particle Filter](https://img.shields.io/badge/AMCL_Particle_Filter-02569B?style=for-the-badge)
-![Dead Reckoning](https://img.shields.io/badge/Dead_Reckoning-333333?style=for-the-badge)
-![Decoupled PID Control](https://img.shields.io/badge/Decoupled_PID_Control-2E7D32?style=for-the-badge)
+<br />
 
-#### **Embedded Systems & Indigenous Hardware Development**
-![Indigenous Hardware R&D](https://img.shields.io/badge/Indigenous_Hardware_R%2BD-008800?style=for-the-badge)
-![STM32 Bare--Metal](https://img.shields.io/badge/STM32_Bare--Metal_C-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-![Custom Signal PCBs](https://img.shields.io/badge/Custom_Signal_PCBs-1565C0?style=for-the-badge)
-![DMA Bit--Serial Acquisition](https://img.shields.io/badge/DMA_Bit--Serial_Acquisition-0D47A1?style=for-the-badge)
-![SolidWorks CAD](https://img.shields.io/badge/SolidWorks_CAD-FF0000?style=for-the-badge&logo=solidworks&logoColor=white)
+#### 📐 State Estimation, Navigation & Kinematics
+![Extended Kalman Filter (EKF)](https://img.shields.io/badge/Extended_Kalman_Filter_(EKF)-005A9C?style=flat-square)
+![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-4A154B?style=flat-square)
+![2D/3D LiDAR SLAM](https://img.shields.io/badge/2D%2F3D_LiDAR_SLAM-000000?style=flat-square)
+![AMCL Particle Filter](https://img.shields.io/badge/AMCL_Particle_Filter-02569B?style=flat-square)
+![Dead Reckoning](https://img.shields.io/badge/Dead_Reckoning-333333?style=flat-square)
+![Decoupled PID Control](https://img.shields.io/badge/Decoupled_PID_Control-2E7D32?style=flat-square)
 
-#### **Vision Processing, ML & Interface Architecture**
-![Spatial Image Processing](https://img.shields.io/badge/Spatial_Image_Processing-5C2D91?style=for-the-badge&logo=opencv&logoColor=white)
-![Deep Learning & Neural Networks](https://img.shields.io/badge/Deep_Learning_%26_Neural_Nets-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hardware--to--Software Interfaces](https://img.shields.io/badge/Hardware--to--Software_Interfaces-424242?style=for-the-badge)
-![LLM Neural Autonomy](https://img.shields.io/badge/LLM_Neural_Autonomy-8E24AA?style=for-the-badge)
+#### ⚡ Embedded Systems & Indigenous Hardware Development
+![Indigenous Hardware R&D](https://img.shields.io/badge/Indigenous_Hardware_R%2BD-008800?style=flat-square)
+![STM32 Bare-Metal C](https://img.shields.io/badge/STM32_Bare--Metal_C-03234C?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
+![Custom Signal PCBs](https://img.shields.io/badge/Custom_Signal_PCBs-1565C0?style=flat-square)
+![DMA Bit-Serial Acquisition](https://img.shields.io/badge/DMA_Bit--Serial_Acquisition-0D47A1?style=flat-square)
+![SolidWorks CAD](https://img.shields.io/badge/SolidWorks_CAD-FF0000?style=flat-square&logo=solidworks&logoColor=white)
+
+#### 👁️ Vision Processing, ML & Interface Architecture
+![Spatial Image Processing](https://img.shields.io/badge/Spatial_Image_Processing-5C2D91?style=flat-square&logo=opencv&logoColor=white)
+![Deep Learning & Neural Networks](https://img.shields.io/badge/Deep_Learning_%26_Neural_Nets-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hardware-to-Software Interfaces](https://img.shields.io/badge/Hardware--to--Software_Interfaces-424242?style=flat-square)
+![LLM Neural Autonomy](https://img.shields.io/badge/LLM_Neural_Autonomy-8E24AA?style=flat-square)
+
 
 ### 🛰️ System Architecture & Research Focus
 
