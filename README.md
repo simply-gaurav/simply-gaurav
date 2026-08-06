@@ -34,46 +34,55 @@
 
 </div>
 
-### 🛰️ System Architecture & Research Focus
+<!-- Ubuntu Terminal Wrapper -->
+<div align="center">
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌊 Subsea Autonomy & Homing</h3>
-      <ul>
-        <li><strong>Target-Agnostic Navigation:</strong> Real-time frame transformation converting acoustic range/bearing to global aligned offsets[cite: 1].</li>
-        <li><strong>Decoupled Control Stack:</strong> Multi-threaded PID loops gated by heading lock to prevent lateral crabbing[cite: 1].</li>
-        <li><strong>Safety Overrides:</strong> Non-blocking depth control with hardware-level altimeter fault triggers[cite: 1].</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Embedded Hardware & Sensing</h3>
-      <ul>
-        <li><strong>Indigenous Acoustic Hardware:</strong> Custom signal conditioning PCBs eliminating expensive commercial DVL/USBL costs[cite: 1].</li>
-        <li><strong>Bare-Metal C Firmware:</strong> STM32 DMA bit-serial parallel acquisition for continuous, zero-latency sampling[cite: 1].</li>
-        <li><strong>ROS Integration:</strong> Direct hardware-to-Ubuntu streaming as native ROS topics[cite: 1].</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Perception & SLAM</h3>
-      <ul>
-        <li><strong>2D/3D LiDAR SLAM:</strong> Custom AMCL parameter optimization tailored to holonomic kinematic noise models[cite: 1].</li>
-        <li><strong>Human Tracking:</strong> Real-time ML vision pipelines for human-robot safety buffers in dynamic environments[cite: 1].</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛸 Swarms & Multi-Agent Logic</h3>
-      <ul>
-        <li><strong>ISRO ASCEND 2026:</strong> Shortlisted for autonomous planetary aerial swarm logic without GNSS/pseudolites[cite: 1].</li>
-        <li><strong>Cross-Domain Autonomy:</strong> Transferring subsea acoustic swarm consensus logic to aerial vehicles[cite: 1].</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 💻 System Architecture & Research Focus
 
----
+</div>
+
+```bash
+gaurav@ubuntu-robotics:~$ ./fetch_research_subsystems.sh --all
+[INFO] Initializing system diagnostics...
+[INFO] Loading subsea, hardware, perception, and swarm modules...
+
+================================================================================
+ 🌊 MODULE 1: Subsea Autonomy & Homing
+================================================================================
+  • Target-Agnostic Navigation : Real-time frame transformation converting acoustic
+                                 range/bearing into global aligned offsets.
+  • Decoupled Control Stack    : Multi-threaded PID loops gated by heading lock
+                                 to eliminate lateral crabbing during docking.
+  • Safety Overrides           : Non-blocking depth control coupled with hardware-level
+                                 altimeter fault triggers (< 2m seabed threshold).
+
+================================================================================
+ ⚡ MODULE 2: Embedded Hardware & Sensing
+================================================================================
+  • Indigenous Hardware R&D    : Custom signal conditioning PCBs eliminating costly
+                                 commercial DVL/USBL payloads for scalable swarms.
+  • Bare-Metal C Firmware      : STM32 DMA bit-serial parallel acquisition for 
+                                 continuous, zero-overhead signal sampling.
+  • Hardware-to-ROS Interface  : Direct serial-to-Linux streaming sending raw sonar
+                                 packets as native ROS topics.
+
+================================================================================
+ 🤖 MODULE 3: Perception & SLAM
+================================================================================
+  • 2D/3D LiDAR SLAM           : Custom AMCL parameter optimization tailored to 
+                                 holonomic kinematic noise models (Alpha 1-4).
+  • ML Vision Pipeline         : Real-time human/object tracking for dynamic safety
+                                 zones in shared environments.
+
+================================================================================
+ 🛸 MODULE 4: Swarms & Multi-Agent Logic
+================================================================================
+  • ISRO ASCEND 2026           : Shortlisted for autonomous planetary aerial swarm
+                                 coordination without GNSS/pseudolite aids.
+  • Cross-Domain Autonomy      : Vertical transfer of subsea acoustic consensus
+                                 logic directly into aerial swarm platforms.
+
+gaurav@ubuntu-robotics:~$ _
 
 ### 🏆 Key Milestones & R&D Impact
 
