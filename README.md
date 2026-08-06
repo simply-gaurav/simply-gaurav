@@ -1,3 +1,5 @@
+Markdown
+
 # Gaurav Kumar Verma
 **Robotics Systems Architect & Researcher** | CSIR-CMERI & NIT Patna
 
@@ -48,3 +50,15 @@ Languages     : C++, C (Bare-Metal), Python, Bash
 Frameworks    : ROS 1 (Melodic/Noetic), ROS 2, OpenCV, Node.js
 Micro/HW      : STM32, ESP32, Custom Signal PCBs, SolidWorks, 3D Prototyping
 Sensors       : DVL, USBL, Acoustic Sonar, AHRS, Altimeter, 2D/3D LiDAR, Depth Cameras
+
+📬 Contact & Credentials
+
+    Institution: CSIR-CMERI Durgapur / NIT Patna[cite: 1]
+
+    Email: gauravkhunti@gmail.com
+
+    [cite: 1]
+
+    LinkedIn: gaurav-kumar-verma-94a580ab
+
+    [cite: 1]
