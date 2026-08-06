@@ -91,8 +91,8 @@
 
 <div align="center">
   <br />
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=simply-gaurav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=simply-gaurav&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simply-gaurav&theme=tokyonight" width="48%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simply-gaurav&theme=tokyonight" width="40%" alt="Languages" />
   <br />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=simply-gaurav&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Streak" />
