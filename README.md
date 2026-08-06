@@ -34,13 +34,46 @@
 
 <div align="center">
 
-### 💻 System Architecture & Research Focus
+### 🛰️ System Architecture & Research Focus
 
-<a href="https://github.com/simply-gaurav">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00FF66&center=false&vcenter=true&width=750&height=370&lines=gaurav%40ubuntu-robotics%3A~%2Fros_workspace%24+cat+system_architecture.log;================================================================================;%F0%9F%8C%8A+SUBSEA+AUTONOMY+%26+HOMING;--+Target-Agnostic+Nav%3A+Acoustic+range%2Fbearing+to+global+aligned+frame+transforms;--+Decoupled+Control%3A+Multi-threaded+PID+loops+gated+by+heading+lock;--+Safety+Layer%3A+Non-blocking+depth+control+w%2F+altimeter+hardware+override;================================================================================;%E2%9A%A1+EMBEDDED+HARDWARE+%26+SENSING;--+Indigenous+Hardware%3A+Custom+PCBs+replacing+costly+commercial+DVL%2FUSBL;--+Bare-Metal+Firmware%3A+STM32+DMA+bit-serial+parallel+signal+acquisition;--+ROS+Interface%3A+Direct+serial-to-Linux+streaming+as+native+ROS+topics;================================================================================;%F0%9F%A4%96+PERCEPTION+%26+SWARMS;--+LiDAR+SLAM%3A+AMCL+parameter+optimization+for+holonomic+kinematics;--+ISRO+ASCEND+2026%3A+Autonomous+planetary+aerial+swarm+coordination;gaurav%40ubuntu-robotics%3A~%2Fros_workspace%24+_" alt="Ubuntu Terminal Output" />
-</a>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌊 Subsea Autonomy & Homing</h3>
+      <ul>
+        <li><strong>Target-Agnostic Navigation:</strong> Real-time frame transformation converting acoustic range/bearing to global aligned offsets[cite: 1].</li>
+        <li><strong>Decoupled Control Stack:</strong> Multi-threaded PID loops gated by heading lock to prevent lateral crabbing[cite: 1].</li>
+        <li><strong>Safety Overrides:</strong> Non-blocking depth control with hardware-level altimeter fault triggers[cite: 1].</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Embedded Hardware & Sensing</h3>
+      <ul>
+        <li><strong>Indigenous Acoustic Hardware:</strong> Custom signal conditioning PCBs eliminating expensive commercial DVL/USBL costs[cite: 1].</li>
+        <li><strong>Bare-Metal C Firmware:</strong> STM32 DMA bit-serial parallel acquisition for continuous, zero-latency sampling[cite: 1].</li>
+        <li><strong>ROS Integration:</strong> Direct hardware-to-Ubuntu streaming as native ROS topics[cite: 1].</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Perception & SLAM</h3>
+      <ul>
+        <li><strong>2D/3D LiDAR SLAM:</strong> Custom AMCL parameter optimization tailored to holonomic kinematic noise models[cite: 1].</li>
+        <li><strong>Human Tracking:</strong> Real-time ML vision pipelines for human-robot safety buffers in dynamic environments[cite: 1].</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛸 Swarms & Multi-Agent Logic</h3>
+      <ul>
+        <li><strong>ISRO ASCEND 2026:</strong> Shortlisted for autonomous planetary aerial swarm logic without GNSS/pseudolites[cite: 1].</li>
+        <li><strong>Cross-Domain Autonomy:</strong> Transferring subsea acoustic swarm consensus logic to aerial vehicles[cite: 1].</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-</div>
+---
 
 ### 🏆 Key Milestones & R&D Impact
 
