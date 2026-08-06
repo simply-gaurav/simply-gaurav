@@ -34,55 +34,49 @@
 
 </div>
 
-<!-- Ubuntu Terminal Wrapper -->
 <div align="center">
 
-### 💻 System Architecture & Research Focus
+<svg width="720" height="360" viewBox="0 0 720 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Window Outer Container -->
+  <rect width="720" height="360" rx="10" fill="#300A24"/>
+  <!-- Top Title Bar -->
+  <path d="M0 10C0 4.47715 4.47715 0 10 0H710C715.523 0 720 4.47715 720 10V35H0V10Z" fill="#2C001E"/>
+  <!-- Close, Minimize, Maximize Buttons -->
+  <circle cx="20" cy="17.5" r="6" fill="#E95420"/>
+  <circle cx="38" cy="17.5" r="6" fill="#48B9C7"/>
+  <circle cx="56" cy="17.5" r="6" fill="#77216F"/>
+  <text x="360" y="22" fill="#AEA79F" font-family="'Ubuntu', 'Fira Code', monospace" font-size="13" font-weight="bold" text-anchor="middle">gaurav@ubuntu-robotics: ~/ros_workspace/architecture.sys</text>
+  
+  <!-- Terminal Content Body -->
+  <g font-family="'Fira Code', 'Ubuntu Mono', monospace" font-size="12">
+    <!-- Prompt Line -->
+    <text x="20" y="60" fill="#4E9A06" font-weight="bold">gaurav@ubuntu-robotics</text>
+    <text x="185" y="60" fill="#FFFFFF">:</text>
+    <text x="195" y="60" fill="#3465A4" font-weight="bold">~/ros_workspace</text>
+    <text x="315" y="60" fill="#FFFFFF">$ ./inspect_subsystems --verbose</text>
+    
+    <!-- Output Blocks -->
+    <text x="20" y="90" fill="#4E9A06">[INFO] Subsea Autonomy Stack:</text>
+    <text x="40" y="110" fill="#FFFFFF">• Target-Agnostic Navigation: Global frame transformations via acoustic range/bearing[cite: 1]</text>
+    <text x="40" y="130" fill="#FFFFFF">• Decoupled PID Stack: Gated heading lock control preventing lateral crabbing[cite: 1]</text>
+    
+    <text x="20" y="165" fill="#E95420">[INFO] Indigenous Hardware & Embedded Sensing:</text>
+    <text x="40" y="185" fill="#FFFFFF">• Hardware R&D: Custom signal-conditioning PCBs replacing high-cost DVL/USBL[cite: 1]</text>
+    <text x="40" y="205" fill="#FFFFFF">• Bare-Metal C: STM32 DMA bit-serial acquisition for continuous sampling[cite: 1]</text>
+    
+    <text x="20" y="240" fill="#3465A4">[INFO] Perception & Swarm Logic:</text>
+    <text x="40" y="260" fill="#FFFFFF">• LiDAR SLAM & AMCL: Optimized kinematic noise models for holonomic bases[cite: 1]</text>
+    <text x="40" y="280" fill="#FFFFFF">• ISRO ASCEND 2026: Autonomous planetary aerial swarm coordination (GPS-denied)[cite: 1]</text>
+    
+    <!-- Terminal Prompt End -->
+    <text x="20" y="320" fill="#4E9A06" font-weight="bold">gaurav@ubuntu-robotics</text>
+    <text x="185" y="320" fill="#FFFFFF">:</text>
+    <text x="195" y="320" fill="#3465A4" font-weight="bold">~/ros_workspace</text>
+    <text x="315" y="320" fill="#FFFFFF">$ _</text>
+  </g>
+</svg>
 
 </div>
-
-```bash
-gaurav@ubuntu-robotics:~$ ./fetch_research_subsystems.sh --all
-[INFO] Initializing system diagnostics...
-[INFO] Loading subsea, hardware, perception, and swarm modules...
-
-================================================================================
- 🌊 MODULE 1: Subsea Autonomy & Homing
-================================================================================
-  • Target-Agnostic Navigation : Real-time frame transformation converting acoustic
-                                 range/bearing into global aligned offsets.
-  • Decoupled Control Stack    : Multi-threaded PID loops gated by heading lock
-                                 to eliminate lateral crabbing during docking.
-  • Safety Overrides           : Non-blocking depth control coupled with hardware-level
-                                 altimeter fault triggers (< 2m seabed threshold).
-
-================================================================================
- ⚡ MODULE 2: Embedded Hardware & Sensing
-================================================================================
-  • Indigenous Hardware R&D    : Custom signal conditioning PCBs eliminating costly
-                                 commercial DVL/USBL payloads for scalable swarms.
-  • Bare-Metal C Firmware      : STM32 DMA bit-serial parallel acquisition for 
-                                 continuous, zero-overhead signal sampling.
-  • Hardware-to-ROS Interface  : Direct serial-to-Linux streaming sending raw sonar
-                                 packets as native ROS topics.
-
-================================================================================
- 🤖 MODULE 3: Perception & SLAM
-================================================================================
-  • 2D/3D LiDAR SLAM           : Custom AMCL parameter optimization tailored to 
-                                 holonomic kinematic noise models (Alpha 1-4).
-  • ML Vision Pipeline         : Real-time human/object tracking for dynamic safety
-                                 zones in shared environments.
-
-================================================================================
- 🛸 MODULE 4: Swarms & Multi-Agent Logic
-================================================================================
-  • ISRO ASCEND 2026           : Shortlisted for autonomous planetary aerial swarm
-                                 coordination without GNSS/pseudolite aids.
-  • Cross-Domain Autonomy      : Vertical transfer of subsea acoustic consensus
-                                 logic directly into aerial swarm platforms.
-
-gaurav@ubuntu-robotics:~$ _
 
 ### 🏆 Key Milestones & R&D Impact
 
