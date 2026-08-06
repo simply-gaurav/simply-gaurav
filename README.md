@@ -22,6 +22,8 @@
 
 ---
 
+<div align="center">
+
 ### 🧬 Core Engineering Stack & Technical Expertise
 
 <!-- Core Foundation (Primary Badges) -->
@@ -41,6 +43,8 @@
 ![Dead Reckoning](https://img.shields.io/badge/Dead_Reckoning-333333?style=flat-square)
 ![Decoupled PID Control](https://img.shields.io/badge/Decoupled_PID_Control-2E7D32?style=flat-square)
 
+<br />
+
 #### ⚡ Embedded Systems & Indigenous Hardware Development
 ![Indigenous Hardware R&D](https://img.shields.io/badge/Indigenous_Hardware_R%2BD-008800?style=flat-square)
 ![STM32 Bare-Metal C](https://img.shields.io/badge/STM32_Bare--Metal_C-03234C?style=flat-square&logo=stmicroelectronics&logoColor=white)
@@ -49,12 +53,15 @@
 ![DMA Bit-Serial Acquisition](https://img.shields.io/badge/DMA_Bit--Serial_Acquisition-0D47A1?style=flat-square)
 ![SolidWorks CAD](https://img.shields.io/badge/SolidWorks_CAD-FF0000?style=flat-square&logo=solidworks&logoColor=white)
 
+<br />
+
 #### 👁️ Vision Processing, ML & Interface Architecture
 ![Spatial Image Processing](https://img.shields.io/badge/Spatial_Image_Processing-5C2D91?style=flat-square&logo=opencv&logoColor=white)
 ![Deep Learning & Neural Networks](https://img.shields.io/badge/Deep_Learning_%26_Neural_Nets-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hardware-to-Software Interfaces](https://img.shields.io/badge/Hardware--to--Software_Interfaces-424242?style=flat-square)
 ![LLM Neural Autonomy](https://img.shields.io/badge/LLM_Neural_Autonomy-8E24AA?style=flat-square)
 
+</div>
 
 ### 🛰️ System Architecture & Research Focus
 
