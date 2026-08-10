@@ -84,6 +84,7 @@
 | **Intellectual Property** | 1 Patent (Underwater Sensing Optimization) & 1 Copyright Under Review[cite: 1] |
 | **Publications** | Research published in *Int. Journal of Control, Automation, & Systems*, *IEEE*, & *ACM*[cite: 1] |
 ---
+---
 ### 📈 GitHub Analytics
 
 <div align="center">
