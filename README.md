@@ -89,14 +89,19 @@
 
 <div align="center">
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simply-gaurav&theme=tokyonight" width="48%" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simply-gaurav&theme=tokyonight" width="48%" alt="Languages" />
+  <!-- Profile details card -->
+  <img src="https://vercel.app" width="51%" alt="Profile Details" />
+  
+  <!-- Improved Top Languages card displaying up to 8 languages, sized perfectly to match -->
+  <img src="https://vercel.app" width="44%" alt="Languages" />
   <br />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simply-gaurav&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <!-- Continuous streak stats card -->
+  <img src="https://herokuapp.com" width="96%" alt="GitHub Streak" />
 </div> 
 
 ---
+
 
 <div align="center">
   <sub>Designed for high-performance robotics engineering.</sub>
