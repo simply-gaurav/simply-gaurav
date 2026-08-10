@@ -90,12 +90,11 @@
 <div align="center">
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simply-gaurav&theme=tokyonight" width="48%" alt="Profile Details" />
-  <img src=["https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simply-gaurav&theme=tokyonight"](https://avatars.githubusercontent.com/u/191236855?v=4&size=64) width="40%" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simply-gaurav&theme=tokyonight" width="48%" alt="Languages" />
   <br />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simply-gaurav&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simply-gaurav&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </div> 
-
 
 ---
 
