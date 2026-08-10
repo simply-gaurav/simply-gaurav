@@ -83,21 +83,16 @@
 | **Smart India Hackathon 2024** | **Winner** — Satellite-independent crop/climate monitoring drone[cite: 1] |
 | **Intellectual Property** | 1 Patent (Underwater Sensing Optimization) & 1 Copyright Under Review[cite: 1] |
 | **Publications** | Research published in *Int. Journal of Control, Automation, & Systems*, *IEEE*, & *ACM*[cite: 1] |
-
 ---
 ### 📈 GitHub Analytics
 
 <div align="center">
   <br />
-  <!-- Profile details card -->
-  <img src="https://vercel.app" width="51%" alt="Profile Details" />
-  
-  <!-- Improved Top Languages card displaying up to 8 languages, sized perfectly to match -->
-  <img src="https://vercel.app" width="44%" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simply-gaurav&theme=tokyonight" width="48%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simply-gaurav&theme=tokyonight" width="48%" alt="Languages" />
   <br />
   <br />
-  <!-- Continuous streak stats card -->
-  <img src="https://herokuapp.com" width="96%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simply-gaurav&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </div> 
 
 ---
